@@ -15,4 +15,4 @@ Custom singly linked list built from scratch without using built-in data structu
 - Pointer management
 
 ## Status
-Completed as part of coursework. Improvements ongoing.
+Completed.
