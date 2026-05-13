@@ -16,3 +16,14 @@ Custom singly linked list built from scratch without using built-in data structu
 
 ## Status
 Completed.
+
+## How to Run
+
+1. Navigate to the src folder:
+   cd src
+
+2. Compile:
+   javac linkedlist/*.java
+
+3. Run:
+   java linkedlist.Main
